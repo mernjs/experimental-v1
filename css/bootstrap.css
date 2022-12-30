@@ -4144,6 +4144,7 @@ fieldset:disabled .btn {
   .navbar-expand-sm .navbar-nav .nav-link {
     padding-right: 0.5rem;
     padding-left: 0.5rem;
+    padding-top: 15px;
   }
   .navbar-expand-sm .navbar-nav-scroll {
     overflow: visible;
@@ -4198,6 +4199,7 @@ fieldset:disabled .btn {
   .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 0.5rem;
     padding-left: 0.5rem;
+    padding-top: 15px;
   }
   .navbar-expand-lg .navbar-nav-scroll {
     overflow: visible;
@@ -4225,6 +4227,7 @@ fieldset:disabled .btn {
   .navbar-expand-xl .navbar-nav .nav-link {
     padding-right: 0.5rem;
     padding-left: 0.5rem;
+    padding-top: 15px;
   }
   .navbar-expand-xl .navbar-nav-scroll {
     overflow: visible;
@@ -4252,6 +4255,7 @@ fieldset:disabled .btn {
   .navbar-expand-xxl .navbar-nav .nav-link {
     padding-right: 0.5rem;
     padding-left: 0.5rem;
+    padding-top: 15px;
   }
   .navbar-expand-xxl .navbar-nav-scroll {
     overflow: visible;
@@ -4281,6 +4285,7 @@ fieldset:disabled .btn {
 .navbar-expand .navbar-nav .nav-link {
   padding-right: 0.5rem;
   padding-left: 0.5rem;
+  padding-top: 20px;
 }
 
 .navbar-expand .navbar-nav-scroll {
